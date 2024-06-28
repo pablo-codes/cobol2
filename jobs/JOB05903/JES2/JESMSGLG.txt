@@ -1,0 +1,21 @@
+1                   J E S 2  J O B  L O G  --  S Y S T E M  S 0 W 1  --  N O D E  S V S C J E S 2
+0
+ 09.05.04 JOB05903 ---- TUESDAY,   20 FEB 2024 ----
+ 09.05.04 JOB05903  IRR010I  USERID ZA0974   IS ASSIGNED TO THIS JOB.
+ 09.05.04 JOB05903  IEF677I WARNING MESSAGE(S) FOR JOB HELLOCBL ISSUED
+ 09.05.06 JOB05903  ICH70001I ZA0974   LAST ACCESS AT 08:53:27 ON TUESDAY, FEBRUARY 20, 2024
+ 09.05.06 JOB05903  $HASP373 HELLOCBL STARTED - INIT 2    - CLASS A        - SYS S0W1
+ 09.05.09 JOB05903  -                                      -----TIMINGS (MINS.)------                          -----PAGING COUNTS----
+ 09.05.09 JOB05903  -STEPNAME PROCSTEP    RC   EXCP   CONN       TCB       SRB  CLOCK          SERV  WORKLOAD  PAGE  SWAP   VIO SWAPS
+ 09.05.09 JOB05903  -HELLO    COBOL       00  15752    201       .00       .00     .0            74  BATCH        1     0     0     0
+ 09.05.10 JOB05903  -HELLO    LKED        00    273     33       .00       .00     .0            67  BATCH        0     0     0     0
+ 09.05.10 JOB05903  -HELLO    GO          00     37     13       .00       .00     .0             9  BATCH        0     0     0     0
+ 09.05.10 JOB05903  -HELLOCBL ENDED.  NAME-                     TOTAL TCB CPU TIME=      .00 TOTAL ELAPSED TIME=    .0
+ 09.05.10 JOB05903  $HASP395 HELLOCBL ENDED - RC=0000
+0------ JES2 JOB STATISTICS ------
+-  20 FEB 2024 JOB EXECUTION DATE
+-            6 CARDS READ
+-          466 SYSOUT PRINT RECORDS
+-            0 SYSOUT PUNCH RECORDS
+-           20 SYSOUT SPOOL KBYTES
+-         0.08 MINUTES EXECUTION TIME

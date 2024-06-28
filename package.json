@@ -1,0 +1,11 @@
+{
+  "name": "cobol2",
+  "version": "1.0.0",
+  "description": "COBOL Mainframe project",
+  "main": "index.js",
+  "scripts": {
+    "clg": "zowe jobs submit lf 'HELLO.JCL' -d ./jobs"
+  },
+  "author": "Francis Okpani",
+  "license": "ISC"
+}
